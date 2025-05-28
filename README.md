@@ -34,6 +34,7 @@ Each screen is carefully crafted to match Blinkit’s modern, fast, and intuitiv
 * **State Management**: *None* (UI only)
 
 ## 📁 Folder Structure
+```
 lib/
 ├── data/                     # (For future data models or services)
 ├── domain/                   # (For future domain logic like entities, use cases)
@@ -54,7 +55,7 @@ lib/
 │       │   └── splashscreen.dart
 ├── widgets/                  # Reusable widgets
 └── main.dart                 # App entry point
-
+```
 ## 🚀 Getting Started
 
 ### Prerequisites
