@@ -73,12 +73,13 @@ flutter run
 ```
 
 ## 📸 Screenshots
-![b1](https://github.com/user-attachments/assets/c656df5f-4f19-42da-b62f-a4c314fa4c5a)
-![b2](https://github.com/user-attachments/assets/d7d7424b-e0bd-456c-b6f2-94cb799fe925)
-![b3](https://github.com/user-attachments/assets/bf728f37-e0d0-4ee5-93e7-64dc8d746f5d)
-![b4](https://github.com/user-attachments/assets/6b7d0d04-c251-42ff-82f0-65942910a05c)
-![b5](https://github.com/user-attachments/assets/dcab017a-6a30-451d-9720-7fe80ec2c056)
-![b6](https://github.com/user-attachments/assets/df2cfdcd-00bb-4fd4-8708-d5f5b51ebfd4)
+
+![b1](https://github.com/user-attachments/assets/f07409d6-59f1-42cf-b332-2fe6d2b0b2a4)
+![b2](https://github.com/user-attachments/assets/d39c498d-7008-4fe0-a3bc-1f34d6a8cf86)
+![b3](https://github.com/user-attachments/assets/ba76bcfc-dad9-45b7-b070-7f61618d5ecf)
+![b4](https://github.com/user-attachments/assets/4e92be74-5654-4f7e-8b84-a751e7fbff2f)
+![b5](https://github.com/user-attachments/assets/34786890-843d-4ab7-b821-eaace58c7d7f)
+![b6](https://github.com/user-attachments/assets/ea7132d4-cd3f-45ac-912f-a66e8f8388d1)
 
 
 ## 🤝 Contributions
